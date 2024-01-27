@@ -1,0 +1,3 @@
+db_name : id21695373_user_kakasualanstore
+user_db : id21695373_db_kaksualanstore
+password : Kakasualanstore`123
